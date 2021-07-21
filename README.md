@@ -14,6 +14,7 @@
 
 - Responsive and user friendly
 - Persian and right-aligned theme
+- OOP-based theme
 - Customize the site layout
 - Simple and advanced optimization system
 - Simple and advanced security system
